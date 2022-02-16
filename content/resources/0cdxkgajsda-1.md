@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/463e10f01b568ea52209a8ca180ccd2e_0CdxkgAjsDA.pdf
+file: /media/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/463e10f01b568ea52209a8ca180ccd2e_0CdxkgAjsDA.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 463e10f0-1b56-8ea5-2209-a8ca180ccd2e

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This Resource contains special files-LaTeX template for problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/184f70b9d1bb34172981c153842001cc_template.zip
+file: /media/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/184f70b9d1bb34172981c153842001cc_template.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: template.zip
 uid: 184f70b9-d1bb-3417-2981-c153842001cc

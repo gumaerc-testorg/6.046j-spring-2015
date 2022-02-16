@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: Notes for [Lecture 23 (PDF)](resources/mit6_046js15_lec23) are available.
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 23: Cache-Oblivious Algorithms: Medians & Matrices'
 uid: 36de4aed-40b6-873c-5a41-30464bacc185
 video_files:
   archive_url: https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec23_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/efbb28f8b99f50929f9d321651589329_1409658.vtt
+  video_captions_file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/efbb28f8b99f50929f9d321651589329_1409658.vtt
   video_thumbnail_file: https://img.youtube.com/vi/CSqbjfCCLrU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/b93568c747321a13d79ef7721be6d50e_1409658.pdf
+  video_transcript_file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/b93568c747321a13d79ef7721be6d50e_1409658.pdf
 video_metadata:
   youtube_id: CSqbjfCCLrU
 ---

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding class on design and analysis
   of algorithms, recitation 2 notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/8fd15588f584c518b6ec83aedb2b96c9_MIT6_046JS15_Recitation2.pdf
+file: /media/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/8fd15588f584c518b6ec83aedb2b96c9_MIT6_046JS15_Recitation2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitation Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Class on Design and Analysis of Algorithms, Recitation 2 Notes
 uid: 8fd15588-f584-c518-b6ec-83aedb2b96c9

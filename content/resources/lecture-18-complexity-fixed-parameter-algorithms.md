@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: Notes for [Lecture 18 (PDF)](resources/mit6_046js15_lec18) are available.
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 18: Complexity: Fixed-Parameter Algorithms'
 uid: cdf85d48-b624-7cbf-f0e7-31844ce445e8
 video_files:
   archive_url: https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec18_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/910376eca1255e5b8e4efcd5d8da773b_4q-jmGrmxKs.vtt
+  video_captions_file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/910376eca1255e5b8e4efcd5d8da773b_4q-jmGrmxKs.vtt
   video_thumbnail_file: https://img.youtube.com/vi/4q-jmGrmxKs/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/b145855395face57d2bdd372c51f91cd_4q-jmGrmxKs.pdf
+  video_transcript_file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/b145855395face57d2bdd372c51f91cd_4q-jmGrmxKs.pdf
 video_metadata:
   youtube_id: 4q-jmGrmxKs
 ---

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/424d869ef72417ac2a4f48647c740171_hmReJCupbNU.srt
+file: /media/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/424d869ef72417ac2a4f48647c740171_hmReJCupbNU.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 424d869e-f724-17ac-2a4f-48647c740171

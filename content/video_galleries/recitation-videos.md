@@ -1,6 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: CourseSection
 title: Recitation Videos
 uid: 8c671299-aae3-6eba-669c-a13490c21dec
 videos:
