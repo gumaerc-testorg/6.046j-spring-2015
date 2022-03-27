@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d03775d6-6b3d-83cd-7232-20b2fcdc643a
 resourcetype: Document
 title: Class on Design and Analysis of Algorithms, Solutions to Problem Set 2
 uid: d608c09d-3f72-7411-722e-3ff5a95b103f

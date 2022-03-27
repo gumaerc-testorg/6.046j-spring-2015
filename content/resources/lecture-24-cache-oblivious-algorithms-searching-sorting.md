@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Cache-Oblivious Algorithms: Searching & Sorting'
 uid: efc8b80e-5095-95eb-8d26-e020f63b3e70
 video_files:

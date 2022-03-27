@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 7: Incremental Improvement: Applications of Network Flow & Matching'
 uid: faf5f000-ed69-bbf4-3966-64e6819bcccd
 video_files:

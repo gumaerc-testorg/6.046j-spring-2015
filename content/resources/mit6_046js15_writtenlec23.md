@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f0632fab-33fe-b54f-79db-e7aead7c2a75
 resourcetype: Document
 title: Class on Design and Analysis of Algorithms, Lecture 23 Notes, Handwritten
 uid: 739d86c1-a582-e6b5-c7c6-1707195d32fc

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6086105f-0147-4c30-9283-19d86f8ea363
 resourcetype: Document
 title: Class on Design and Analysis of Algorithms, Quiz 2
 uid: cd9e9752-7ebe-84e7-9211-f8f59a75c9e6

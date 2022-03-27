@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitation Notes
 parent_type: CourseSection
+parent_uid: 15d515f8-c4b8-4142-510d-b3da89bcae54
 resourcetype: Document
 title: Class on Design and Analysis of Algorithms, Recitation 2 Notes
 uid: 8fd15588-f584-c518-b6ec-83aedb2b96c9

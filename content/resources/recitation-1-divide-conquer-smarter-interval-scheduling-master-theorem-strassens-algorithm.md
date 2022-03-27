@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 1: Divide & Conquer: Smarter Interval Scheduling, Master Theorem,
   Strassen''s Algorithm'
 uid: de6daa14-b4c7-ffd3-995f-0ca7df7b5a9b
