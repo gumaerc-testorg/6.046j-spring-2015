@@ -5,11 +5,13 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: 'Notes for [Lecture 14A (PDF)](resources/mit6_046js15_lec14a) are available.
+optional_text: 'Notes for [Lecture 14A (PDF)](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/resources/mit6_046js15_lec14a)
+  are available.
 
 
-  Additional notes on [Baseball Elimination (PDF)](resources/mit6_046js15_lec14b)
+  Additional notes on [Baseball Elimination (PDF)](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/resources/mit6_046js15_lec14b)
   are available.'
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -31,3 +33,6 @@ video_metadata:
 **Description:** In this lecture, Professor Devadas continues with the topic of network flow.
 
 **Instructors:** Srinivas Devadas
+
+
+

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this video, Erik Domaine discusses his role in the course, his interest
+  in algorithms, and how teaching 6.046 Design and Analysis of Algorithms helps him
+  understand algorithms at a deeper level.
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []

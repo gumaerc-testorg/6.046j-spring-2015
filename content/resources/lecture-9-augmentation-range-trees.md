@@ -5,8 +5,10 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: Notes for [Lecture 9 (PDF)](resources/mit6_046js15_lec09) are available.
+optional_text: Notes for [Lecture 9 (PDF)](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/resources/mit6_046js15_lec09)
+  are available.
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +29,6 @@ video_metadata:
 **Description:** In this lecture, Professor Demaine covers the augmentation of data structures, updating common structures to store additional information.
 
 **Instructors:** Erik Demaine
+
+
+

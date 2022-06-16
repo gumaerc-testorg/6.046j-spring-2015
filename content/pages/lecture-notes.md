@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -28,10 +29,10 @@ LECTURE NOTES (HANDWRITTEN)
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Overview, Interval Scheduling (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec01)
+{{% resource_link ff2a7015-ff91-3fc0-1f03-81d8f5126a9a "Overview, Interval Scheduling (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Overview, Interval Scheduling (PDF)]({{< baseurl >}}/resources/mit6_046js15_writtenlec1)
+{{% resource_link 009c51db-8900-141f-b181-971f2bb826f3 "Overview, Interval Scheduling (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,10 +41,10 @@ LECTURE NOTES (HANDWRITTEN)
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Divide & Conquer: Convex Hull, Median Finding (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec02)
+{{% resource_link 7463c413-c944-ed72-b46a-3c3d02b49448 "Divide & Conquer: Convex Hull, Median Finding (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Divide & Conquer: Convex Hull, Median Finding (PDF)]({{< baseurl >}}/resources/mit6_046js15_writtenlec2)
+{{% resource_link 5c6cf10a-900e-a288-d97d-ce247a9a5a9d "Divide & Conquer: Convex Hull, Median Finding (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,10 +53,10 @@ LECTURE NOTES (HANDWRITTEN)
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Divide & Conquer: FFT (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec03)
+{{% resource_link 3dc84e78-914f-2266-6535-7234d6f4e25c "Divide & Conquer: FFT (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Divide & Conquer: FFT (PDF - 4.8MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec3)
+{{% resource_link da0bca88-3976-0018-d580-ccab98f3e3e1 "Divide & Conquer: FFT (PDF - 4.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,10 +65,10 @@ LECTURE NOTES (HANDWRITTEN)
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Divide & Conquer: Van Emde Boas Trees (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec04)
+{{% resource_link 49c8fa24-dffc-e580-52c9-0d46ac800387 "Divide & Conquer: Van Emde Boas Trees (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Divide & Conquer: Van Emde Boas Trees (PDF - 4.3MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec4)
+{{% resource_link a10b0c19-0edb-4ebc-21e7-32a62c4f3767 "Divide & Conquer: Van Emde Boas Trees (PDF - 4.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,10 +77,10 @@ LECTURE NOTES (HANDWRITTEN)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Amortization: Amortized Analysis (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec05)
+{{% resource_link 13e2c7d1-6525-9712-327a-f0af312a068e "Amortization: Amortized Analysis (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Amortization: Amortized Analysis (PDF - 6.2MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec5)
+{{% resource_link c4f64b60-49a5-7665-4cc8-9f8449b8b6ea "Amortization: Amortized Analysis (PDF - 6.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,10 +89,10 @@ LECTURE NOTES (HANDWRITTEN)
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Randomization: Matrix Multiply, Quicksort (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec06)
+{{% resource_link cb55cb12-3a55-7eed-0738-a1187a452c24 "Randomization: Matrix Multiply, Quicksort (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Randomization: Matrix Multiply, Quicksort (PDF)]({{< baseurl >}}/resources/mit6_046js15_writtenlec6)
+{{% resource_link 7d59cd5e-4d6c-b323-739d-eff687ed1bff "Randomization: Matrix Multiply, Quicksort (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,10 +101,10 @@ LECTURE NOTES (HANDWRITTEN)
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Randomization: Skip Lists (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec07)
+{{% resource_link 14fe0957-8194-3ff9-bd48-5e6e263b48f7 "Randomization: Skip Lists (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Randomization: Skip Lists (PDF)]({{< baseurl >}}/resources/mit6_046js15_writtenlec7)
+{{% resource_link d0ff6b53-0cca-ca26-42a9-9d93c9c3e1f2 "Randomization: Skip Lists (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,10 +113,10 @@ LECTURE NOTES (HANDWRITTEN)
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Randomization: Universal & Perfect Hashing (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec08)
+{{% resource_link 5e4c05ec-33ad-4e73-3c1e-6a247f21d1de "Randomization: Universal & Perfect Hashing (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Randomization: Universal & Perfect Hashing (PDF - 5.2MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec8)
+{{% resource_link 38928e89-ef4c-d6b9-3b6b-7989d53f8e91 "Randomization: Universal & Perfect Hashing (PDF - 5.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,10 +125,10 @@ LECTURE NOTES (HANDWRITTEN)
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Augmentation: Range Trees (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec09)
+{{% resource_link fc870caa-e0e6-8127-87bb-5d50ea4d5e24 "Augmentation: Range Trees (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Augmentation: Range Trees (PDF - 4.5MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec9)
+{{% resource_link 0db7aa0b-49ba-d5f4-e2f1-8bf1ce0272f6 "Augmentation: Range Trees (PDF - 4.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,10 +137,10 @@ LECTURE NOTES (HANDWRITTEN)
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Dynamic Programming: Advanced DP (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec10)
+{{% resource_link 6144f2df-be51-5abf-beb3-2f99a6907af7 "Dynamic Programming: Advanced DP (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dynamic Programming: Advanced DP (PDF)]({{< baseurl >}}/resources/mit6_046js15_writtenlec10)
+{{% resource_link f1fa7da7-085e-506b-092d-f7571a78bd0f "Dynamic Programming: Advanced DP (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,10 +149,10 @@ LECTURE NOTES (HANDWRITTEN)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Dynamic Programming: All-pairs Shortest Paths (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec11)
+{{% resource_link 312f4a41-9009-b58f-8147-b75975db4347 "Dynamic Programming: All-pairs Shortest Paths (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dynamic Programming: All-pairs Shortest Paths 11 (PDF - 5.6MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec11)
+{{% resource_link fda670b3-8d29-97bd-beb9-903fc4242a3d "Dynamic Programming: All-pairs Shortest Paths 11 (PDF - 5.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,10 +161,10 @@ LECTURE NOTES (HANDWRITTEN)
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Greedy Algorithms: Minimum Spanning Tree (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec12)
+{{% resource_link 4a7fdddf-f3bc-419c-70bb-470106a1663a "Greedy Algorithms: Minimum Spanning Tree (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Greedy Algorithms: Minimum Spanning Tree (PDF - 5.1MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec12)
+{{% resource_link 67e57b7b-b3f1-c85b-3271-937e3d355030 "Greedy Algorithms: Minimum Spanning Tree (PDF - 5.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +173,7 @@ LECTURE NOTES (HANDWRITTEN)
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Incremental Improvement: Max Flow, Min Cut (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec13)
+{{% resource_link ac6b6e8a-c932-bb5d-fb65-06fd0db9d5ad "Incremental Improvement: Max Flow, Min Cut (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 None
@@ -184,9 +185,9 @@ None
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Incremental Improvement: Matching (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec14a)
+{{% resource_link bdafe05f-4f3c-20ca-bfd0-8d2fbd099f63 "Incremental Improvement: Matching (PDF)" %}}
 
-[Baseball Elimination Notes (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec14b)
+{{% resource_link bd608351-6a6e-9fd0-03be-011d866c472f "Baseball Elimination Notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -200,10 +201,10 @@ None
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Linear Programming: LP, Reductions, Simplex (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec15)
+{{% resource_link 927a49ad-f7b3-c4a6-de8c-31393509552c "Linear Programming: LP, Reductions, Simplex (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear Programming: LP, Reductions, Simplex 15 (PDF)]({{< baseurl >}}/resources/mit6_046js15_writtenlec15)
+{{% resource_link 0013aa51-920e-6d02-da1e-3630bdc678b3 "Linear Programming: LP, Reductions, Simplex 15 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,10 +213,10 @@ None
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Complexity: P, NP, NP-completeness, Reductions (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec16)
+{{% resource_link f2829e57-caad-e7e7-f21d-765b8e7b9058 "Complexity: P, NP, NP-completeness, Reductions (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Complexity: P, NP, NP-completeness, Reductions 16 (PDF - 8.1MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec16)
+{{% resource_link 2d39b27f-c7d7-908c-7cf7-ee7eb35b0095 "Complexity: P, NP, NP-completeness, Reductions 16 (PDF - 8.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,10 +225,10 @@ None
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Complexity: Approximation Algorithms (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec17)
+{{% resource_link a4a7f356-ba3e-65a0-0ad2-bdcfed6e0f35 "Complexity: Approximation Algorithms (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Complexity: Approximation Algorithms (PDF)]({{< baseurl >}}/resources/mit6_046js15_writtenlec17)
+{{% resource_link 95594562-15ef-4bc9-7f4e-ad631bc29212 "Complexity: Approximation Algorithms (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,10 +237,10 @@ None
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Complexity: Fixed-parameter Algorithms (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec18)
+{{% resource_link 2cf0d5a0-689e-fafd-2bf2-d13954d8ad9b "Complexity: Fixed-parameter Algorithms (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Complexity: Fixed-parameter Algorithms (PDF - 6.4MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec18)
+{{% resource_link aed959d4-2cce-7eec-b986-70bd7d0dd9c5 "Complexity: Fixed-parameter Algorithms (PDF - 6.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +249,7 @@ None
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Synchronous Distributed Algorithms: Symmetry-breaking. Shortest-paths Spanning Trees (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec19)
+{{% resource_link 662439af-ce08-e29e-da88-612482506f78 "Synchronous Distributed Algorithms: Symmetry-breaking. Shortest-paths Spanning Trees (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 None
@@ -260,7 +261,7 @@ None
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Asynchronous Distributed Algorithms: Shortest-paths Spanning Trees (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec20)
+{{% resource_link 78a79d1a-832d-bae7-2746-95d7bd33d044 "Asynchronous Distributed Algorithms: Shortest-paths Spanning Trees (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 None
@@ -272,10 +273,10 @@ None
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Cryptography: Hash Functions (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec21)
+{{% resource_link 6741d65b-e662-edac-7c16-9c4081b3bd9a "Cryptography: Hash Functions (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cryptography: Hash Functions (PDF)]({{< baseurl >}}/resources/mit6_046js15_writtenlec21)
+{{% resource_link 037c6125-14d1-aa23-393c-cf55aa52252f "Cryptography: Hash Functions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -284,10 +285,10 @@ None
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Cryptography: Encryption (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec22)
+{{% resource_link 5526c183-8a4b-7e37-b3e1-d0dc843d1c1f "Cryptography: Encryption (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cryptography: Encryption (PDF)]({{< baseurl >}}/resources/mit6_046js15_writtenlec22)
+{{% resource_link 6889d9a5-0117-051e-f21d-c4c975567dfe "Cryptography: Encryption (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,10 +297,10 @@ None
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Cache-oblivious Algorithms: Medians & Matrices (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec23)
+{{% resource_link ed590b1c-1f41-cdef-211f-a49dc62dc8f1 "Cache-oblivious Algorithms: Medians & Matrices (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cache-oblivious Algorithms: Medians & Matrices 23 (PDF - 6.1MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec23)
+{{% resource_link 739d86c1-a582-e6b5-c7c6-1707195d32fc "Cache-oblivious Algorithms: Medians & Matrices 23 (PDF - 6.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,10 +309,10 @@ None
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Cache-oblivious Algorithms: Searching & Sorting (PDF)]({{< baseurl >}}/resources/mit6_046js15_lec24)
+{{% resource_link 1698f473-542d-755c-89df-e9fce490c12a "Cache-oblivious Algorithms: Searching & Sorting (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cache-oblivious Algorithms: Searching & Sorting (PDF - 5.4MB)]({{< baseurl >}}/resources/mit6_046js15_writtenlec24)
+{{% resource_link 82e937ff-849d-2381-4740-2c214d79d046 "Cache-oblivious Algorithms: Searching & Sorting (PDF - 5.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

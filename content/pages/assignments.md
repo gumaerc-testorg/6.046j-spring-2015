@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course, solutions,
+  a guide to writing up homework, and a LaTeX template for problem sets.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -50,95 +52,95 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset1)
+{{% resource_link 43d974c6-c4bf-c5d8-8086-a67e023fd88d "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset1sols)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset2)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset2sols)
+{{% resource_link b14791a7-8432-996a-1d40-3e8b1deb0749 "Solutions to Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset3)
+{{% resource_link 4a1b44e7-e3f3-4aa8-5adb-782d70048210 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset3sols)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset4)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset4sols)
+{{% resource_link d608c09d-3f72-7411-722e-3ff5a95b103f "Solutions to Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset5)
+{{% resource_link c6f51268-1e64-389b-446a-981c7d963323 "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset5sols)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset6)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset6sols)
+{{% resource_link 3e83fa64-54e5-ebe6-bf1b-cb1b4a122f6d "Solutions to Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset7)
+{{% resource_link 5eb7c113-4350-c898-89dc-af7ec3fd609a "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset7sols)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset8)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions to Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset8sols)
+{{% resource_link 8cc8292f-1b04-e9ad-c435-46295b2ecae3 "Solutions to Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset9)
+{{% resource_link 45952953-cb13-d077-bd35-d4397d67fa7c "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset9sols)
+{{% resource_link bbcc32bd-d480-116c-a12b-065cf6d6c454 "Solutions to Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset10)
+{{% resource_link d33d30d2-402b-35cc-4094-df7cac04d113 "Problem Set 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset10sols)
+{{% resource_link 832add4a-924c-dca6-111f-e115e6bba85e "Solutions to Problem Set 6 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 93951baa-ee86-c66b-1f2f-d48e2c493745 "Problem Set 7 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link a320dad5-988c-3017-2a2b-1538536dc0a2 "Solutions to Problem Set 7 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 29a28961-d8c7-3e01-3ba7-8238e66dc2ab "Problem Set 8 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link e75cb61d-de17-69d9-d9ea-22069b5ce2c4 "Solutions to Problem Set 8 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link bb6a432d-8768-19c6-18c5-be099dc5e2cb "Problem Set 9 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link ff14ef94-18b7-42bf-99cf-a9f52c6accd7 "Solutions to Problem Set 9 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link d4865809-813b-7de6-90cb-debb0bf8b4f4 "Problem Set 10 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 7a3fe48c-42ff-8d2f-7052-e9fcf5054ae6 "Solutions to Problem Set 10 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-[LaTeX Template for Problem Sets (ZIP)]({{< baseurl >}}/resources/template) (This file contains: 1 .cls file, 2 .sty files, 1 .pdf file and 1 .tex file.)
+{{% resource_link 184f70b9-d1bb-3417-2981-c153842001cc "LaTeX Template for Problem Sets (ZIP)" %}} (This file contains: 1 .cls file, 2 .sty files, 1 .pdf file and 1 .tex file.)

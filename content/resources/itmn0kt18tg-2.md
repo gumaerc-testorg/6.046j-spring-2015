@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/07e6328d8f0d50e7b643e5f2974d41e4_iTMn0Kt18tg.vtt
+file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/07e6328d8f0d50e7b643e5f2974d41e4_iTMn0Kt18tg.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

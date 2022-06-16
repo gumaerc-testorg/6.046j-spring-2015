@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Professor Erik Demaine describes various aspects of
+  how he teaches 6.046 Design and Analysis of Algorithms.
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []

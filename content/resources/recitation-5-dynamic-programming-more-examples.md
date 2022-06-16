@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: Recitation Notes
-optional_text: Notes for [Recitation 5 (PDF)](resources/mit6_046js15_recitation5)
+optional_text: Notes for [Recitation 5 (PDF)](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/resources/mit6_046js15_recitation5)
   are available.
 parent_title: Recitation Videos
 parent_type: CourseSection
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this recitation, problems related to dynamic programming are discussed.
 
 **Instructors:** Ling Ren
+
+
+
