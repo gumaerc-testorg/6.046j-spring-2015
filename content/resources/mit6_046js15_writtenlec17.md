@@ -6,6 +6,7 @@ file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/9559456215ef
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class on Design and Analysis of Algorithms, Lecture 17 Notes, Handwritten
 uid: 95594562-15ef-4bc9-7f4e-ad631bc29212
 ---
 This resource contains information regarding class on design and analysis of algorithms, lecture 17 Notes, handwritten.
-

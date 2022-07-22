@@ -6,6 +6,7 @@ file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/cd9e97527ebe
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class on Design and Analysis of Algorithms, Quiz 2
 uid: cd9e9752-7ebe-84e7-9211-f8f59a75c9e6
 ---
 This resource contains information regarding class on design and analysis of algorithms, quiz 2.
-

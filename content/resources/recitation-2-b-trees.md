@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Recitation Notes
 optional_text: Notes for [Recitation 2 (PDF)](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/resources/mit6_046js15_recitation2)
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** In this recitation, problems related to 2-3 Trees and B-Trees are discussed.
 
 **Instructors:** Amartya Shankha Biswas
-
-
 

@@ -6,6 +6,7 @@ file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/c212df0eabeb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class on Design and Analysis of Algorithms, Solutions to Final Exam
 uid: c212df0e-abeb-c6b2-c271-bd4a63480d70
 ---
 This resource contains information regarding class on design and analysis of algorithms, solutions to final exam.
-

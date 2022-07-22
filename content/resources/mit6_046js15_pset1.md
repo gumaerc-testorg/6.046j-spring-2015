@@ -6,6 +6,7 @@ file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/43d974c6c4bf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class on Design and Analysis of Algorithms, Problem Set 1
 uid: 43d974c6-c4bf-c5d8-8086-a67e023fd88d
 ---
 This resource contains information regarding class on design and analysis of algorithms, problem set 1.
-

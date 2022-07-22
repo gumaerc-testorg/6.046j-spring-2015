@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: Notes for [Lecture 16 (PDF)](/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/resources/mit6_046js15_lec16)
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** In this lecture, Professor Demaine introduces NP-completeness.
 
 **Instructors:** Erik Demaine
-
-
 

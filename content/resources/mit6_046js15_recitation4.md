@@ -6,6 +6,7 @@ file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/08020963ae81
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitation Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class on Design and Analysis of Algorithms, Recitation 4 Notes
 uid: 08020963-ae81-9d4c-6dcf-177983bb7c6b
 ---
 This resource contains information regarding class on design and analysis of algorithms, recitation 4 notes.
-

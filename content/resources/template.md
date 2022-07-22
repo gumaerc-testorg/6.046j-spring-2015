@@ -5,6 +5,7 @@ file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/184f70b9d1bb
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: template.zip
 uid: 184f70b9-d1bb-3417-2981-c153842001cc
 ---
 This Resource contains special files-LaTeX template for problem set.
-
