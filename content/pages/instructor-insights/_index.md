@@ -24,7 +24,7 @@ This course is an intermediate class covering the design of computer algorithms 
 
 ### Requirements Satisfied
 
-6.046 can be applied toward a {{% resource_link "8876a7f5-7a33-483f-a0c1-267d5349ed68" "Bachelor of Science in Computer Science and Engineering" %}}.
+6.046 can be applied toward a [Bachelor of Science in Computer Science and Engineering](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/).
 
 ### Offered
 
