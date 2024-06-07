@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding class on design and analysis
   of algorithms, solutions to problem set 9.
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/ff14ef9418b742bf99cfa9f52c6accd7_MIT6_046JS15_pset9sols.pdf
+file_size: 288571
 file_type: application/pdf
 learning_resource_types:
 - Assignments

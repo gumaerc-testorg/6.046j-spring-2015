@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/2bb373d553799f63e629ff8d265a988e_educator_still.jpg
+file_size: 25960
 file_type: image/jpeg
 image_metadata:
   caption: ''
