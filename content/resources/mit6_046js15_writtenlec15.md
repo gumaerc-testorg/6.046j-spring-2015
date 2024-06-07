@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/0013aa51920e6d02da1e3630bdc678b3_MIT6_046JS15_writtenlec15.pdf
+file_size: 673293
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

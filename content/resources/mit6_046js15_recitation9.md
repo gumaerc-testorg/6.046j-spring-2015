@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding class on design and analysis
   of algorithms, recitation 9 notes.
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/9233649044c6d4308f0c6ffe4752b9f5_MIT6_046JS15_Recitation9.pdf
+file_size: 188582
 file_type: application/pdf
 learning_resource_types:
 - Recitations

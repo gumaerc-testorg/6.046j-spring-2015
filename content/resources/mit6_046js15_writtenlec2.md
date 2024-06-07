@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding class on design and analysis
   of algorithms, lecture 2 Notes, handwritten.
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/5c6cf10a900ea288d97dce247a9a5a9d_MIT6_046JS15_writtenlec2.pdf
+file_size: 622935
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

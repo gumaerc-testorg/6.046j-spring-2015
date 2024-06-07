@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/25a49f173dc534bf565b38506f6a479d_krZI60lKPek.pdf
+file_size: 51625
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

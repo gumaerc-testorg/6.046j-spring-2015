@@ -2,6 +2,7 @@
 content_type: resource
 description: This Resource contains special files-LaTeX template for problem set.
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/184f70b9d1bb34172981c153842001cc_template.zip
+file_size: 51412
 file_type: application/zip
 learning_resource_types:
 - Assignments
