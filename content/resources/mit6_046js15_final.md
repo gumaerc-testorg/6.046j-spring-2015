@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding class on design and analysis
   of algorithms, final exam.
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/4c82af3a9820b038e2caba09d023de12_MIT6_046JS15_final.pdf
+file_size: 347811
 file_type: application/pdf
 learning_resource_types:
 - Exams

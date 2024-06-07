@@ -65,7 +65,7 @@ Textbook
 
 The primary written reference for the course is:
 
-{{% resource_link "806d5d6a-2e1c-4746-bd12-a3aefc2632b8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, et al. _Introduction to Algorithms_. 3rd ed. MIT Press, 2009. ISBN: 9780262033848. \[Preview with {{% resource_link "6ebbf559-b621-441c-8184-c5292b5b4c06" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) Cormen, Thomas, Charles Leiserson, et al. _Introduction to Algorithms_. 3rd ed. MIT Press, 2009. ISBN: 9780262033848. \[Preview with [Google Books](http://books.google.com/books?id=i-bUBQAAQBAJ&printsec=frontcover)\]
 
 In previous semesters the course has used the first or second edition of this text. We will be using material and exercise numbering from the third edition, making earlier editions unsuitable as substitutes.
 
