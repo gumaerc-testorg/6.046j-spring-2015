@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding class on design and analysis
   of algorithms, lecture 18 Notes, handwritten.
-file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/aed959d42cce7eecb98670bd7d0dd9c5_MIT6_046JS15_writtenlec18.pdf
+file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/aed959d42cce7eecb98670bd7d0dd9c5_MIT6_046JS15_writtenlec18.pdf
 file_size: 6735108
 file_type: application/pdf
 learning_resource_types:
