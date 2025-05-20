@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding class on design and analysis
   of algorithms, solutions to final exam.
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/c212df0eabebc6b2c271bd4a63480d70_MIT6_046JS15_finalsols.pdf
+file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/c212df0eabebc6b2c271bd4a63480d70_MIT6_046JS15_finalsols.pdf
 file_size: 489349
 file_type: application/pdf
 learning_resource_types:
