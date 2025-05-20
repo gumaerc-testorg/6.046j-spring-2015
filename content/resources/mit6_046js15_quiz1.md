@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding class on design and analysis
   of algorithms, quiz 1.
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/dc92909c424ece61e77b3ec13569098f_MIT6_046JS15_quiz1.pdf
+file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/dc92909c424ece61e77b3ec13569098f_MIT6_046JS15_quiz1.pdf
 file_size: 219342
 file_type: application/pdf
 learning_resource_types:
