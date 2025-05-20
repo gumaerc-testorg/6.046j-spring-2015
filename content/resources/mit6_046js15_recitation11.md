@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding class on design and analysis
   of algorithms, recitation 11 notes.
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/c9057a2600a14987be5eea240c10fe45_MIT6_046JS15_Recitation11.pdf
+file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2015/c9057a2600a14987be5eea240c10fe45_MIT6_046JS15_Recitation11.pdf
 file_size: 225762
 file_type: application/pdf
 learning_resource_types:
