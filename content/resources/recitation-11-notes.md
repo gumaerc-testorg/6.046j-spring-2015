@@ -1,25 +1,25 @@
 ---
 content_type: resource
 description: This resource contains information regarding class on design and analysis
-  of algorithms, solutions to quiz 2.
+  of algorithms, recitation 11 notes.
 draft: false
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/44146f3104fa80a52514265d070ebc40_MIT6_046JS15_quiz2sols.pdf
-file_size: 275991
+file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/c9057a2600a14987be5eea240c10fe45_MIT6_046JS15_Recitation11.pdf
+file_size: 225762
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams with Solutions
+- Problem-solving Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Exams
+parent_title: Recitation Notes
 parent_type: CourseSection
-parent_uid: 6086105f-0147-4c30-9283-19d86f8ea363
+parent_uid: 15d515f8-c4b8-4142-510d-b3da89bcae54
 resourcetype: Document
-title: Solutions to Quiz 2
-uid: 44146f31-04fa-80a5-2514-265d070ebc40
+title: Recitation 11 Notes
+uid: c9057a26-00a1-4987-be5e-ea240c10fe45
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -32,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This resource contains information regarding class on design and analysis of algorithms, solutions to quiz 2.
+This resource contains information regarding class on design and analysis of algorithms, recitation 11 notes.

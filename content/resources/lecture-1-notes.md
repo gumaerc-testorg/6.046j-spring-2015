@@ -1,25 +1,25 @@
 ---
 content_type: resource
 description: This resource contains information regarding class on design and analysis
-  of algorithms, solutions to quiz 2.
+  of algorithms, lecture 1 notes.
 draft: false
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/44146f3104fa80a52514265d070ebc40_MIT6_046JS15_quiz2sols.pdf
-file_size: 275991
+file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/ff2a7015ff913fc01f0381d8f5126a9a_MIT6_046JS15_lec01.pdf
+file_size: 209858
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams with Solutions
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Exams
+parent_title: Lecture Notes
 parent_type: CourseSection
-parent_uid: 6086105f-0147-4c30-9283-19d86f8ea363
+parent_uid: f0632fab-33fe-b54f-79db-e7aead7c2a75
 resourcetype: Document
-title: Solutions to Quiz 2
-uid: 44146f31-04fa-80a5-2514-265d070ebc40
+title: Lecture 1 Notes
+uid: ff2a7015-ff91-3fc0-1f03-81d8f5126a9a
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -32,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This resource contains information regarding class on design and analysis of algorithms, solutions to quiz 2.
+This resource contains information regarding class on design and analysis of algorithms, lecture 1 notes.

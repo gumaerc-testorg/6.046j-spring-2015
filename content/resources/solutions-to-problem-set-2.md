@@ -1,25 +1,25 @@
 ---
 content_type: resource
 description: This resource contains information regarding class on design and analysis
-  of algorithms, solutions to quiz 2.
+  of algorithms, solutions to problem set 2.
 draft: false
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/44146f3104fa80a52514265d070ebc40_MIT6_046JS15_quiz2sols.pdf
-file_size: 275991
+file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/d608c09d3f727411722e3ff5a95b103f_MIT6_046JS15_pset2sols.pdf
+file_size: 257737
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams with Solutions
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Exams
+parent_title: Assignments
 parent_type: CourseSection
-parent_uid: 6086105f-0147-4c30-9283-19d86f8ea363
+parent_uid: d03775d6-6b3d-83cd-7232-20b2fcdc643a
 resourcetype: Document
-title: Solutions to Quiz 2
-uid: 44146f31-04fa-80a5-2514-265d070ebc40
+title: Solutions to Problem Set 2
+uid: d608c09d-3f72-7411-722e-3ff5a95b103f
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -32,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This resource contains information regarding class on design and analysis of algorithms, solutions to quiz 2.
+This resource contains information regarding class on design and analysis of algorithms, solutions to problem set 2.

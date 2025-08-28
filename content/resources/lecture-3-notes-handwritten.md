@@ -1,25 +1,25 @@
 ---
 content_type: resource
 description: This resource contains information regarding class on design and analysis
-  of algorithms, solutions to quiz 2.
+  of algorithms, lecture 3 Notes, handwritten.
 draft: false
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/44146f3104fa80a52514265d070ebc40_MIT6_046JS15_quiz2sols.pdf
-file_size: 275991
+file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/da0bca8839760018d580ccab98f3e3e1_MIT6_046JS15_writtenlec3.pdf
+file_size: 4992603
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams with Solutions
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Exams
+parent_title: Lecture Notes
 parent_type: CourseSection
-parent_uid: 6086105f-0147-4c30-9283-19d86f8ea363
+parent_uid: f0632fab-33fe-b54f-79db-e7aead7c2a75
 resourcetype: Document
-title: Solutions to Quiz 2
-uid: 44146f31-04fa-80a5-2514-265d070ebc40
+title: Lecture 3 Notes, Handwritten
+uid: da0bca88-3976-0018-d580-ccab98f3e3e1
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -32,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This resource contains information regarding class on design and analysis of algorithms, solutions to quiz 2.
+This resource contains information regarding class on design and analysis of algorithms, lecture 3 Notes, handwritten.
