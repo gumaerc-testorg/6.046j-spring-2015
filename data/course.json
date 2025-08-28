@@ -52,7 +52,7 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Recitation Videos",
+    "Problem-solving Videos",
     "Problem Sets with Solutions",
     "Exams with Solutions",
     "Lecture Notes",
@@ -60,5 +60,6 @@
   ],
   "site_uid": "d974e3d4-3fd8-4016-bf3d-a483fad6acce",
   "site_short_id": "6.046j-spring-2015",
+  "site_url_path": "courses/6-046j-design-and-analysis-of-algorithms-spring-2015",
   "title": "Course Metadata"
 }
