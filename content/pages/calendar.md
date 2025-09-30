@@ -8,7 +8,7 @@ uid: 7ce8bf64-fb7a-99a3-95f7-0cba6bec958c
 ---
 
 Assigned readings are from the course textbook:  
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) Cormen, Thomas, Charles Leiserson, et al. _Introduction to Algorithms_. 3rd ed. MIT Press, 2009. ISBN: 9780262033848. \[Preview with [Google Books](http://books.google.com/books?id=i-bUBQAAQBAJ&printsec=frontcover)\]
+{{% resource_link "8b3719ba-ef60-49ea-87e8-6558e2d05c73" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, et al. _Introduction to Algorithms_. 3rd ed. MIT Press, 2009. ISBN: 9780262033848. \[Preview with {{% resource_link "8ccc8b9d-2b54-4f2b-9f31-b0e5b90a85ce" "Google Books" %}}\]
 
 \[L\] = Lecture, \[R\] = Recitation
 
