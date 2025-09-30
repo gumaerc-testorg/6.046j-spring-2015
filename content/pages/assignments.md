@@ -35,7 +35,7 @@ You will often be called upon to "give an algorithm" to solve a certain problem.
 Remember, your goal is to communicate. Graders will be instructed to take off points for convoluted and obtuse descriptions.
 
 The problem sets include both textbook exercises and problems from the course textbook:  
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) Cormen, Thomas, Charles Leiserson, et al. _Introduction to Algorithms_. 3rd ed. MIT Press, 2009. ISBN: 9780262033848. \[Preview with [Google Books](http://books.google.com/books?id=i-bUBQAAQBAJ&printsec=frontcover)\]
+{{% resource_link "8b3719ba-ef60-49ea-87e8-6558e2d05c73" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, et al. _Introduction to Algorithms_. 3rd ed. MIT Press, 2009. ISBN: 9780262033848. \[Preview with {{% resource_link "8ccc8b9d-2b54-4f2b-9f31-b0e5b90a85ce" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
